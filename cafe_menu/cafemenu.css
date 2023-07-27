@@ -1,0 +1,34 @@
+body{
+background-image: url("cofee.jpg");
+background-size: 1500px;
+}
+
+div{
+background-color:rgb(222,184,135);
+width:600px;
+margin:0 auto;
+font-family:Cursive;
+text-align:center;
+}
+
+header{
+border-bottom-style: solid;
+border-bottom-width: medium;
+border-bottom-color:rgb(139,69,19);
+text-align:center;
+}
+
+footer{
+border-top-style: solid;
+border-top-width: medium;
+border-top-color:rgb(139,69,19);
+text-align:center;
+}
+
+table{
+margin:0 auto;
+text-align:left;
+}
+
+a{
+color: black;}
