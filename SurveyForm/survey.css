@@ -1,0 +1,28 @@
+body{
+background-image:url(survey.gif);
+background-color:rgb(0,206,209);
+background-repeat: no-repeat;
+background-position: center;
+background-size:250px;
+text-align:center;
+font-family:serif;
+}
+
+form{
+background-color:rgb(175,238,238,0.7);
+width: 500px;
+margin:0 auto;
+text-align:left;
+padding:20px;
+border-radius:32px;}
+
+button{
+width: 100px;
+height: 30px;
+background-color: rgb(0,206,209);
+border-color: rgb(0,206,209);
+border-radius: 20px;
+margin-left:40%;}
+
+.name{
+width:200px;}
